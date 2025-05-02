@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "PRINCE-MDX~8HKQFwuNFIbJMuQ7ez15"
     },  
     
     "ALIVE_IMG": {
@@ -76,7 +76,7 @@
     "FAKE_RECORDING": {
       "description": "Make it true if you want bot fake record.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
 
     "AUTO_REACT": {
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "𝗣𝗥𝗜𝗡𝗖𝗘 𝗠𝗗𝗫"
+      "value": "KINDBÖT"
     }, 
 
     "HEART_REACT": {
